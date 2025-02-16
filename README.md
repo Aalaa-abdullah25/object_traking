@@ -1,7 +1,8 @@
 # Object Tracking Application
 
 
-![header_mots]([https://github.com/user-attachments/assets/2bf53fbc-544a-4087-85c9-fcbc73a919b5](https://camo.githubusercontent.com/49a959cf8e98786d0653c286ecbab962b0c1e3e45ad7cbd1d6ef618c20d90100/68747470733a2f2f692e6962622e636f2f374e79726d304a2f6f626a6563742d747261636b696e672d66726f6d2d736372617463682d6f70656e63762d616e642d707974686f6e2d6f626a6563742d646574656374696f6e2d776974682d796f6c6f2d373638783634382e706e67))
+![header_mots](https://github.com/user-attachments/assets/2bf53fbc-544a-4087-85c9-fcbc73a919b5)
+
 
 
 This project is an object tracking application that uses OpenCV and Streamlit to process and display video files with object tracking.
