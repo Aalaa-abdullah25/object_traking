@@ -1,8 +1,9 @@
 # Object Tracking Application
 
 
-![header_mots](https://github.com/user-attachments/assets/2bf53fbc-544a-4087-85c9-fcbc73a919b5)
 
+
+![363a76dc9a9346d441587fed0b1a5a82](https://github.com/user-attachments/assets/16fe6b39-533a-47e3-b634-8c2a1bb75550)
 
 
 This project is an object tracking application that uses OpenCV and Streamlit to process and display video files with object tracking.
